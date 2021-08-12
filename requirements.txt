@@ -1,0 +1,2 @@
+metaflow==2.2.8
+--extra-index-url https://path-to-library-package

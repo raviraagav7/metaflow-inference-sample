@@ -1,0 +1,2 @@
+--extra-index-url https://path-to-library-package
+boto3==1.13.3
